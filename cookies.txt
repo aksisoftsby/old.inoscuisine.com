@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+inoscuisine.com	TRUE	/	FALSE	1999999999	wpsc_customer_cookie_c9d7cd057d3a56a9147eae047791cb10	21094%7C1585286934%7C176024b29adca8a9969860604f34bbe7
+.aksisoft.com	TRUE	/	FALSE	1999999999	__cfduid	d330f3b4ae79e77e2499295cc8648bed21585114138
+inos.aksisoft.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+inoscuisine.com	TRUE	/	FALSE	1999999999	PHPSESSID	vbt64vkq51e0s8fbmqvnvqli96
+.inoscuisine.com	TRUE	/	FALSE	1999999999	__cfduid	d09ab29c8b624795555b183320070899b1585114408
+inoscuisine.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

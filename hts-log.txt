@@ -1,0 +1,145 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 25 Mar 2020 12:28:52 at https://inoscuisine.com/index.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://inoscuisine.com/index.php -O1 "F:\dony\httrack\inos.old\inos.old4" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:29:37	Error: 	"Method Not Allowed" (405) at link https://inoscuisine.com/xmlrpc.php (from https://inoscuisine.com/index.php)
+12:29:37	Error: 	"Not Found" (404) at link https://inoscuisine.com/fonts/quicksand.eot (from https://inoscuisine.com/index.php)
+12:29:37	Error: 	"Not Found" (404) at link https://inoscuisine.com/fonts/quicksand.eot? (from https://inoscuisine.com/index.php)
+12:29:37	Error: 	"Not Found" (404) at link https://inoscuisine.com/fonts/quicksand.woff (from https://inoscuisine.com/index.php)
+12:29:37	Error: 	"Not Found" (404) at link https://inoscuisine.com/fonts/quicksand.ttf (from https://inoscuisine.com/index.php)
+12:29:37	Error: 	"Not Found" (404) at link https://inoscuisine.com/fonts/quicksand.svg (from https://inoscuisine.com/index.php)
+12:29:37	Error: 	"Not Found" (404) at link https://inoscuisine.com/fonts/quicksand-regular.eot (from https://inoscuisine.com/index.php)
+12:29:37	Error: 	"Not Found" (404) at link https://inoscuisine.com/fonts/quicksand-regular.eot? (from https://inoscuisine.com/index.php)
+12:29:37	Error: 	"Not Found" (404) at link https://inoscuisine.com/fonts/quicksand-regular.woff (from https://inoscuisine.com/index.php)
+12:29:37	Error: 	"Not Found" (404) at link https://inoscuisine.com/fonts/quicksand-regular.ttf (from https://inoscuisine.com/index.php)
+12:29:37	Error: 	"Not Found" (404) at link https://inoscuisine.com/fonts/quicksand-regular.svg (from https://inoscuisine.com/index.php)
+12:29:37	Error: 	"Not Found" (404) at link https://inoscuisine.com/fonts/eras.ttf (from https://inoscuisine.com/index.php)
+12:29:37	Error: 	"Not Found" (404) at link https://inoscuisine.com/fonts/fontello.eot?14587781 (from https://inoscuisine.com/index.php)
+12:29:37	Error: 	"Not Found" (404) at link https://inoscuisine.com/fonts/fontello.woff?14587781 (from https://inoscuisine.com/index.php)
+12:29:37	Error: 	"Not Found" (404) at link https://inoscuisine.com/fonts/fontello.ttf?14587781 (from https://inoscuisine.com/index.php)
+12:29:37	Error: 	"Not Found" (404) at link https://inoscuisine.com/fonts/fontello.svg?14587781 (from https://inoscuisine.com/index.php)
+12:29:37	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 340015 expected)) at link inos.aksisoft.com/wp-content/uploads/2015/05/tumblr_mjc8gxPaaw1s773u2o2_r3_1280-1.jpg (from https://inoscuisine.com/index.php)
+12:30:34	Warning: 	Retry after error -4 (No data (connection closed)) at link inos.aksisoft.com/wp-content/uploads/2015/05/inos-dessert-02-e1432831663327.png (from https://inoscuisine.com/index.php)
+12:30:34	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 23600 expected)) at link inos.aksisoft.com/wp-content/uploads/2015/05/Home-front-05-e1432831964518.png (from https://inoscuisine.com/index.php)
+12:30:34	Warning: 	Retry after error -4 (No data (connection closed)) at link inos.aksisoft.com/wp-content/uploads/2015/05/Home-front-04-e1432831946119.png (from https://inoscuisine.com/index.php)
+12:30:34	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 25025 expected)) at link inos.aksisoft.com/wp-content/uploads/2015/05/Home-front-03-e1432831924131.png (from https://inoscuisine.com/index.php)
+12:30:34	Warning: 	Retry after error -4 (No data (connection closed)) at link inos.aksisoft.com/wp-content/uploads/2015/05/logo-01.png (from https://inoscuisine.com/index.php)
+12:30:39	Warning: 	file not stored in cache due to bogus state (broken size, expected 26557 got 0): inos.aksisoft.com/wp-content/uploads/2015/05/inos-dessert-02-e1432831663327.png
+12:30:40	Warning: 	file not stored in cache due to bogus state (broken size, expected 3189 got 0): inos.aksisoft.com/wp-content/uploads/2015/05/logo-01.png
+12:30:45	Warning: 	file not stored in cache due to bogus state (broken size, expected 12917 got 0): inos.aksisoft.com/wp-content/uploads/2015/05/Home-front-04-e1432831946119.png
+12:30:51	Warning: 	Found for inos.aksisoft.com/wp-content/uploads/2015/05/tumblr_mjc8gxPaaw1s773u2o2_r3_1280-1.jpg
+12:30:51	Warning: 	Redirected link is identical because of 'URL Hack' option: inos.aksisoft.com/wp-content/uploads/2015/05/tumblr_mjc8gxPaaw1s773u2o2_r3_1280-1.jpg and https://inos.aksisoft.com/wp-content/uploads/2015/05/tumblr_mjc8gxPaaw1s773u2o2_r3_1280-1.jpg
+12:30:51	Warning: 	Warning moved treated for inos.aksisoft.com/wp-content/uploads/2015/05/tumblr_mjc8gxPaaw1s773u2o2_r3_1280-1.jpg (real one is https://inos.aksisoft.com/wp-content/uploads/2015/05/tumblr_mjc8gxPaaw1s773u2o2_r3_1280-1.jpg)
+12:31:30	Warning: 	Moved Permanently for https://inoscuisine.com/?p=4
+12:31:30	Warning: 	File has moved from https://inoscuisine.com/?p=4 to https://inoscuisine.com/products-page/
+12:31:30	Error: 	"Not Found" (404) at link https://inoscuisine.com/wp-json/oembed/1.0/embed?url (from https://inoscuisine.com/products-page/cookie/)
+12:31:30	Error: 	"Not Found" (404) at link https://inoscuisine.com/wp-json/oembed/1.0/embed?url&format=xml (from https://inoscuisine.com/products-page/cookie/)
+12:31:30	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 276832 expected)) at link inos.aksisoft.com/wp-content/uploads/2015/05/tumblr_mjc5c2RbpR1s773u2o1_r1_1280.jpg (from https://inoscuisine.com/products-page/cookie/)
+12:31:30	Warning: 	Retry after error -4 (No data (connection closed)) at link inos.aksisoft.com/wp-content/uploads/2015/05/inos-business-card-08-e1432830635593.png (from https://inoscuisine.com/products-page/cookie/)
+12:31:36	Warning: 	file not stored in cache due to bogus state (broken size, expected 15411 got 0): inos.aksisoft.com/wp-content/uploads/2015/05/inos-business-card-08-e1432830635593.png
+12:33:27	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 26557 expected)) at link inos.aksisoft.com/wp-content/uploads/2015/05/inos-dessert-02-e1432831663327.png (from https://inoscuisine.com/index.php)
+12:33:27	Warning: 	Found for inos.aksisoft.com/wp-content/uploads/2015/05/Home-front-05-e1432831964518.png
+12:33:27	Warning: 	Redirected link is identical because of 'URL Hack' option: inos.aksisoft.com/wp-content/uploads/2015/05/Home-front-05-e1432831964518.png and https://inos.aksisoft.com/wp-content/uploads/2015/05/Home-front-05-e1432831964518.png
+12:33:27	Warning: 	Warning moved treated for inos.aksisoft.com/wp-content/uploads/2015/05/Home-front-05-e1432831964518.png (real one is https://inos.aksisoft.com/wp-content/uploads/2015/05/Home-front-05-e1432831964518.png)
+12:33:27	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 12917 expected)) at link inos.aksisoft.com/wp-content/uploads/2015/05/Home-front-04-e1432831946119.png (from https://inoscuisine.com/index.php)
+12:33:27	Warning: 	Found for inos.aksisoft.com/wp-content/uploads/2015/05/Home-front-03-e1432831924131.png
+12:33:27	Warning: 	Redirected link is identical because of 'URL Hack' option: inos.aksisoft.com/wp-content/uploads/2015/05/Home-front-03-e1432831924131.png and https://inos.aksisoft.com/wp-content/uploads/2015/05/Home-front-03-e1432831924131.png
+12:33:27	Warning: 	Warning moved treated for inos.aksisoft.com/wp-content/uploads/2015/05/Home-front-03-e1432831924131.png (real one is https://inos.aksisoft.com/wp-content/uploads/2015/05/Home-front-03-e1432831924131.png)
+12:33:27	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 3189 expected)) at link inos.aksisoft.com/wp-content/uploads/2015/05/logo-01.png (from https://inoscuisine.com/index.php)
+12:33:27	Warning: 	Moved Permanently for https://inoscuisine.com/?p=49
+12:33:27	Warning: 	File has moved from https://inoscuisine.com/?p=49 to https://inoscuisine.com/home/
+12:33:27	Warning: 	Moved Permanently for https://inoscuisine.com/?p=32
+12:33:27	Warning: 	File has moved from https://inoscuisine.com/?p=32 to https://inoscuisine.com/contact-us/
+12:33:27	Warning: 	Moved Permanently for https://inoscuisine.com/?p=16
+12:33:27	Warning: 	File has moved from https://inoscuisine.com/?p=16 to https://inoscuisine.com/about/
+12:33:27	Error: 	"Not Found" (404) at link https://inoscuisine.com/wp-content/themes/storefront-paper/fonts/quicksand.woff (from https://inoscuisine.com/wp-content/themes/storefront-paper/style.css?ver=4.9.13)
+12:33:32	Warning: 	file not stored in cache due to bogus state (broken size, expected 12917 got 0): inos.aksisoft.com/wp-content/uploads/2015/05/Home-front-04-e1432831946119.png
+12:33:32	Error: 	"Not Found" (404) at link https://inoscuisine.com/wp-content/themes/storefront-paper/img/architecture/poolbar.jpg (from https://inoscuisine.com/wp-content/themes/storefront-paper/style.css?ver=4.9.13)
+12:33:32	Error: 	"Not Found" (404) at link https://inoscuisine.com/wp-content/themes/storefront-paper/img/architecture/out-divider.jpg (from https://inoscuisine.com/wp-content/themes/storefront-paper/style.css?ver=4.9.13)
+12:33:33	Error: 	"Not Found" (404) at link https://inoscuisine.com/wp-content/themes/storefront-paper/img/architecture/theater.jpg (from https://inoscuisine.com/wp-content/themes/storefront-paper/style.css?ver=4.9.13)
+12:33:33	Error: 	"Not Found" (404) at link https://inoscuisine.com/wp-content/themes/storefront-paper/img/architecture/in-divider.jpg (from https://inoscuisine.com/wp-content/themes/storefront-paper/style.css?ver=4.9.13)
+12:33:33	Error: 	"Not Found" (404) at link https://inoscuisine.com/wp-content/themes/storefront-paper/img/architecture/3spot.jpg (from https://inoscuisine.com/wp-content/themes/storefront-paper/style.css?ver=4.9.13)
+12:33:33	Error: 	"Not Found" (404) at link https://inoscuisine.com/wp-content/themes/storefront-paper/img/architecture/wine-holder.jpg (from https://inoscuisine.com/wp-content/themes/storefront-paper/style.css?ver=4.9.13)
+12:33:33	Error: 	"Not Found" (404) at link https://inoscuisine.com/wp-content/themes/storefront-paper/img/architecture/resident.jpg (from https://inoscuisine.com/wp-content/themes/storefront-paper/style.css?ver=4.9.13)
+12:33:33	Error: 	"Not Found" (404) at link https://inoscuisine.com/wp-content/themes/storefront-paper/img/architecture/museum.jpg (from https://inoscuisine.com/wp-content/themes/storefront-paper/style.css?ver=4.9.13)
+12:33:33	Error: 	"Not Found" (404) at link https://inoscuisine.com/wp-content/themes/storefront-paper/img/architecture/triangle.jpg (from https://inoscuisine.com/wp-content/themes/storefront-paper/style.css?ver=4.9.13)
+12:33:33	Error: 	"Not Found" (404) at link https://inoscuisine.com/wp-content/themes/storefront-paper/img/graphics/cards.jpg (from https://inoscuisine.com/wp-content/themes/storefront-paper/style.css?ver=4.9.13)
+12:33:33	Error: 	"Not Found" (404) at link https://inoscuisine.com/wp-content/themes/storefront-paper/img/graphics/cv.jpg (from https://inoscuisine.com/wp-content/themes/storefront-paper/style.css?ver=4.9.13)
+12:33:33	Error: 	"Not Found" (404) at link https://inoscuisine.com/wp-content/themes/storefront-paper/img/graphics/oltre.jpg (from https://inoscuisine.com/wp-content/themes/storefront-paper/style.css?ver=4.9.13)
+12:33:33	Error: 	"Not Found" (404) at link https://inoscuisine.com/wp-content/themes/storefront-paper/img/graphics/oltre-bar.jpg (from https://inoscuisine.com/wp-content/themes/storefront-paper/style.css?ver=4.9.13)
+12:33:33	Error: 	"Not Found" (404) at link https://inoscuisine.com/wp-content/themes/storefront-paper/img/graphics/thesis.jpg (from https://inoscuisine.com/wp-content/themes/storefront-paper/style.css?ver=4.9.13)
+12:33:33	Error: 	"Not Found" (404) at link https://inoscuisine.com/wp-content/themes/storefront-paper/img/graphics/menu.jpg (from https://inoscuisine.com/wp-content/themes/storefront-paper/style.css?ver=4.9.13)
+12:33:33	Error: 	"Not Found" (404) at link https://inoscuisine.com/wp-content/themes/storefront-paper/img/graphics/ventalia.jpg (from https://inoscuisine.com/wp-content/themes/storefront-paper/style.css?ver=4.9.13)
+12:33:33	Error: 	"Not Found" (404) at link https://inoscuisine.com/wp-content/themes/storefront-paper/img/graphics/logos.jpg (from https://inoscuisine.com/wp-content/themes/storefront-paper/style.css?ver=4.9.13)
+12:33:33	Error: 	"Not Found" (404) at link https://inoscuisine.com/wp-content/themes/storefront-paper/img/graphics/posters.jpg (from https://inoscuisine.com/wp-content/themes/storefront-paper/style.css?ver=4.9.13)
+12:33:33	Error: 	"Not Found" (404) at link https://inoscuisine.com/products-page/anniversary/feed/ (from https://inoscuisine.com/products-page/anniversary/)
+12:33:33	Error: 	"Not Found" (404) at link https://inoscuisine.com/products-page/cuisine/feed/ (from https://inoscuisine.com/products-page/cuisine/)
+12:33:33	Error: 	"Not Found" (404) at link https://inoscuisine.com/products-page/dessert/feed/ (from https://inoscuisine.com/products-page/dessert/)
+12:33:33	Warning: 	Found for inos.aksisoft.com/wp-content/uploads/2015/05/tumblr_mjc5c2RbpR1s773u2o1_r1_1280.jpg
+12:33:33	Warning: 	Redirected link is identical because of 'URL Hack' option: inos.aksisoft.com/wp-content/uploads/2015/05/tumblr_mjc5c2RbpR1s773u2o1_r1_1280.jpg and https://inos.aksisoft.com/wp-content/uploads/2015/05/tumblr_mjc5c2RbpR1s773u2o1_r1_1280.jpg
+12:33:33	Warning: 	Warning moved treated for inos.aksisoft.com/wp-content/uploads/2015/05/tumblr_mjc5c2RbpR1s773u2o1_r1_1280.jpg (real one is https://inos.aksisoft.com/wp-content/uploads/2015/05/tumblr_mjc5c2RbpR1s773u2o1_r1_1280.jpg)
+12:33:33	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 15411 expected)) at link inos.aksisoft.com/wp-content/uploads/2015/05/inos-business-card-08-e1432830635593.png (from https://inoscuisine.com/products-page/cookie/)
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=250
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=250 to https://inoscuisine.com/products-page/anniversary/anotherproject/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=249
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=249 to https://inoscuisine.com/products-page/anniversary/assorted-inos-cake/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=248
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=248 to https://inoscuisine.com/products-page/anniversary/assorted-inos-pudding/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=219
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=219 to https://inoscuisine.com/products-page/anniversary/praline-chocolate/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=208
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=208 to https://inoscuisine.com/products-page/anniversary/208-2/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=197
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=197 to https://inoscuisine.com/products-page/anniversary/sirloin-steak/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=189
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=189 to https://inoscuisine.com/products-page/anniversary/inos-peking-duck-specialities/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=177
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=177 to https://inoscuisine.com/products-page/anniversary/premium-catering-bank-jateng-event-at-semarang/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=169
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=169 to https://inoscuisine.com/products-page/anniversary/now-we-are-at-zest-hotel-surabaya/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=142
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=142 to https://inoscuisine.com/products-page/cuisine/beef-paillard-with-cafe-de-paris-butter/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=139
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=139 to https://inoscuisine.com/products-page/cuisine/roast-lamb-cutlet-with-herbs-provencale/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=138
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=138 to https://inoscuisine.com/products-page/cuisine/us-top-blade-with-shalot/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=136
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=136 to https://inoscuisine.com/products-page/cuisine/chicken-steak/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=134
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=134 to https://inoscuisine.com/products-page/cuisine/australian-sirloin-steak/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=125
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=125 to https://inoscuisine.com/products-page/cuisine/inos-selection-of-steak/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=122
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=122 to https://inoscuisine.com/products-page/cuisine/grilled-salmon-with-herbs-with-gribiche-sauce/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=119
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=119 to https://inoscuisine.com/products-page/cuisine/grilled-prawn-with-provencale-butter/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=116
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=116 to https://inoscuisine.com/products-page/cuisine/dori-fillet-with-lemon-and-herbs-butter-sauce/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=112
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=112 to https://inoscuisine.com/products-page/dessert/crepe-suzzete/
+12:33:33	Error: 	"Not Found" (404) at link https://inoscuisine.com/products-page/dessert/chocolate-mousse-with-mint-sauce/feed/ (from https://inoscuisine.com/products-page/dessert/chocolate-mousse-with-mint-sauce/)
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=96
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=96 to https://inoscuisine.com/products-page/dessert/chocolate-mousse-with-mint-sauce/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=108
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=108 to https://inoscuisine.com/products-page/dessert/fruits-charlotte-with-raspberry-coulis/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=102
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=102 to https://inoscuisine.com/products-page/dessert/croquembouche/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=99
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=99 to https://inoscuisine.com/products-page/dessert/apple-tart-a-la-tatin/
+12:33:33	Warning: 	Moved Permanently for https://inoscuisine.com/?p=94
+12:33:33	Warning: 	File has moved from https://inoscuisine.com/?p=94 to https://inoscuisine.com/products-page/dessert/floating-island-creme-pudding-served-with-vanila-sauce/
+12:33:33	Warning: 	Found for inos.aksisoft.com/wp-content/uploads/2015/05/inos-dessert-02-e1432831663327.png
+12:33:33	Warning: 	Redirected link is identical because of 'URL Hack' option: inos.aksisoft.com/wp-content/uploads/2015/05/inos-dessert-02-e1432831663327.png and https://inos.aksisoft.com/wp-content/uploads/2015/05/inos-dessert-02-e1432831663327.png
+12:33:33	Warning: 	Warning moved treated for inos.aksisoft.com/wp-content/uploads/2015/05/inos-dessert-02-e1432831663327.png (real one is https://inos.aksisoft.com/wp-content/uploads/2015/05/inos-dessert-02-e1432831663327.png)
+12:33:33	Error: 	"Incorrect length (0 Bytes, 12917 expected)" (-4) after 2 retries at link inos.aksisoft.com/wp-content/uploads/2015/05/Home-front-04-e1432831946119.png (from https://inoscuisine.com/index.php)
+12:33:33	Warning: 	Found for inos.aksisoft.com/wp-content/uploads/2015/05/logo-01.png
+12:33:33	Warning: 	Redirected link is identical because of 'URL Hack' option: inos.aksisoft.com/wp-content/uploads/2015/05/logo-01.png and https://inos.aksisoft.com/wp-content/uploads/2015/05/logo-01.png
+12:33:33	Warning: 	Warning moved treated for inos.aksisoft.com/wp-content/uploads/2015/05/logo-01.png (real one is https://inos.aksisoft.com/wp-content/uploads/2015/05/logo-01.png)
+12:33:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link inos.aksisoft.com/wp-content/uploads/2015/05/inos-business-card-08-e1432830635593.png (from https://inoscuisine.com/products-page/cookie/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 41 seconds : 343 links scanned, 253 files written (26917092 bytes overall) [25901569 bytes received at 92176 bytes/sec], 3774206 bytes transferred using HTTP compression in 171 files, ratio 27%, 9.9 requests per connection
+(43 errors, 91 warnings, 0 messages)
